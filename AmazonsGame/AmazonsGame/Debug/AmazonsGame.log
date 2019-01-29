@@ -1,0 +1,4 @@
+﻿  AmazonsGame.cpp
+f:\digipen\mat 564\assignments\amazonsgame\amazonsgame\amazonsgame.cpp(896): warning C4715: 'nextMove': not all control paths return a value
+f:\digipen\mat 564\assignments\amazonsgame\amazonsgame\amazonsgame.cpp(942): warning C4715: 'nextMove2': not all control paths return a value
+  AmazonsGame.vcxproj -> F:\Digipen\MAT 564\Assignments\AmazonsGame\Debug\AmazonsGame.exe
